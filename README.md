@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessislearning
 - 👀 I’m interested in shifting into a data science/analytics role
-- 🌱 I’m learning python and html/css
+- 🌱 I’m learning python and html/css (and PowerBI)
 - 💞️ I’m looking to collaborate on projects that usher in social changes 
 - 😄 Pronouns: she/her, they/them
 - ⚡ Fun fact: i can drive RHD and LHD
