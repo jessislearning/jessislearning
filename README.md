@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @jessislearning
-- 👀 I’m interested in shifting into a data science/analytics role
-- 🌱 I’m learning python and html/css (and PowerBI)
-- 💞️ I’m looking to collaborate on projects that usher in social changes 
-- 😄 Pronouns: she/her, they/them
+- ⭐️ Pronouns: she/her, they/them
+- 👀 On the lookout for interesting data science and analytics projects
+- 🌱 Programming Languages: Python, SQL, LabView, MATLAB, HTML/CSS, Github
+- 💪🏼 Data Science: Statistical Analysis, Modeling, Machine Learning, Predictive Modeling
+- 💞️ I’m looking to collaborate on projects that give meaningful insights
 - ⚡ Fun fact: i can drive RHD and LHD
+- 📅 Currently learning: TensorFlow
+- 📅 Currently working on: record-and-retrieve BP web app (Python+Flask)
 
 
 <!---
